@@ -19,44 +19,34 @@
 [![Issues][issues-shield]][issues-url] 
 ![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg) 
 
-# Quality-Assurance
+# Scientific Computing with Python
 
->  5 Different projects to practice using Expressjs and other libraries.
-  > - Metric-Imperial Conversor: COnvert data from metrical into imperial and vice versa
-  > - Issue Tracker: You can open issues and track the information of the issue
-  > - Personal Library: Add books and add comments to each book
-  > - Sudoku Solver: Try to solve a sudoku if you can not press solve button
-  > - American-British translator: Translate from american into british english
+>  5 Different projects to practice using Python.
+  > - Arithmetic Formatter: Format operations in old school style
+  > - Budget App: Keep track of the money you spend
+  > - Polygon Area Calculator: Calculate the are, perimeter and more of an square or rectangle
+  > - Probability Calculator: Calculate probabilities
+  > - Time Calculator: Given a time calculate when it will be in the future
 
 Additional description about the project and its features.
 
 ## Built With
 
-- JAVASCRIPT
-- EXPRESSJS
-- NODE
-- MONGOOSE
-- NODEMON
-- CORS
-- MOCHA/CHAI
-- DOTENV
-- ESLINT
-- VSCODE
+- PYTHON
 
 ### Usage
 To have this app on your pc, you need to:
-* [download](https://github.com/javitocor/Quality-Assurance/archive/development.zip) or clone this repo:
+* [download](https://github.com/javitocor/Computing-with-Python/archive/development.zip) or clone this repo:
   - Clone with SSH:
   ```
-    git@github.com:javitocor/Quality-Assurance.git
+    git@github.com:javitocor/Computing-with-Python.git
   ```
   - Clone with HTTPS
   ```
-    https://github.com/javitocor/Quality-Assurance.git
+    https://github.com/javitocor/Computing-with-Python.git
   ```
 
-* Access each folder from your terminal and run `npm start`. Open `localhost:3000` in your browser.
-* To run the tests run modify to NODE_ENV=test in your .env file and `npm start`.
+* Access each folder from your terminal and run `python main.py`. 
 
 ## Authors
 
@@ -70,7 +60,7 @@ To have this app on your pc, you need to:
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/javitocor/Quality-Assurance/issues).
+Feel free to check the [issues page](https://github.com/javitocor/Computing-with-Python/issues).
 
 ## Show your support
 
@@ -79,8 +69,8 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments 🚀
 
 - FreeCodeCamp
-- Expressjs Docs
-- Mocha/Chai docs
+- Python Docs
+- Python for everyone course
 
 ## 📝 License
 
@@ -88,11 +78,11 @@ This project is [MIT](lic.url) licensed.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/javitocor/Quality-Assurance.svg?style=flat-square
-[contributors-url]: https://github.com/javitocor/Quality-Assurance/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/javitocor/Quality-Assurance.svg?style=flat-square
-[forks-url]: https://github.com/javitocor/Quality-Assurance/network/members
-[stars-shield]: https://img.shields.io/github/stars/javitocor/Quality-Assurance.svg?style=flat-square
-[stars-url]: https://github.com/javitocor/Quality-Assurance/stargazers
-[issues-shield]: https://img.shields.io/github/issues/javitocor/Quality-Assurance.svg?style=flat-square
-[issues-url]: https://github.com/javitocor/Quality-Assurance/issues
+[contributors-shield]: https://img.shields.io/github/contributors/javitocor/Computing-with-Python.svg?style=flat-square
+[contributors-url]: https://github.com/javitocor/Computing-with-Python/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/javitocor/Computing-with-Python.svg?style=flat-square
+[forks-url]: https://github.com/javitocor/Computing-with-Python/network/members
+[stars-shield]: https://img.shields.io/github/stars/javitocor/Computing-with-Python.svg?style=flat-square
+[stars-url]: https://github.com/javitocor/Computing-with-Python/stargazers
+[issues-shield]: https://img.shields.io/github/issues/javitocor/Computing-with-Python.svg?style=flat-square
+[issues-url]: https://github.com/javitocor/Computing-with-Python/issues
